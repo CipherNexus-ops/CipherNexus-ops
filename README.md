@@ -1,4 +1,4 @@
-# 👾 CipherNexus-ops
+# 👾 CipherNexus-sh
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;SecOps+%7C+Embedded+%7C+Networking;Identify+%7C+Defend+%7C+Automate" />
